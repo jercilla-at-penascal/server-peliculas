@@ -1,0 +1,5 @@
+[
+  {titulo: "Forrest Gump", descripcion: "La vida de Forrest Gump, un hombre con un coeficiente intelectual bajo pero con una vida extraordinaria.", imagen: "https://upload.wikimedia.org/wikipedia/en/6/67/Forrest_Gump_poster.jpg"},
+  {titulo: "El Padrino", descripcion: "La historia de la familia Corleone, una de las más poderosas de la mafia en Nueva York.", imagen: "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg"},
+  {titulo: "La Lista de Schindler", descripcion: "La historia de Oskar Schindler, un empresario que salvó a más de mil judíos durante el Holocausto.", imagen: "https://upload.wikimedia.org/wikipedia/en/3/38/Schindler%27s_List_movie.jpg"}
+]
